@@ -1,0 +1,28 @@
+numID,initials,scanID,age,sex,labelSex,group,labelGroup,sexGroupNum,ambType,labelAmbType,hasSS,nde,labelNDE,originNDE,swapNDE_EY,acuityDE,acuityNDE,iadLogMAR,occGABA,motorGABA
+1,ac, AC_081714,36,2,male,1,PWA,4,1,aniso,0,2,right,iodAcuity,0,-0.204119983,0.116910013,0.321029996,0.198,0.215
+3,ai, AI_032814,29,1,female,0,NSP,1,0,none,1,1,left,baselineSS,1,NaN,NaN,NaN,0.223,0.236
+6,as, AS_071814,39,1,female,1,PWA,3,1,aniso,0,1,left,iodAcuity,0,-0.097,0.244,0.341,0.217,0.196
+7,bi, BI_050514,52,1,female,1,PWA,3,1,aniso,1,2,right,iodAcuity,0,-0.096910013,0.417940009,0.514850022,0.205,0.219
+9,ch, CH_072314,33,1,female,1,PWA,3,2,mixed,0,1,left,iodAcuity,0,-0.084938737,1.176091259,1.261029996,0.184,          NaN
+11,cr, CR_060414,38,2,male,0,NSP,2,0,none,1,2,right,baselineSS,0,NaN,NaN,NaN,0.201,0.204
+12,cs, CS_072714,46,2,male,1,PWA,4,1,aniso,0,2,right,iodAcuity,0,-0.096910013,0.281029996,0.377940009,0.22,          NaN
+13,ct, CT_032514,18,2,male,0,NSP,2,0,none,1,1,left,baselineSS,1,NaN,NaN,NaN,0.208,0.208
+14,dl, DL_082214,67,2,male,0,NSP,2,0,none,1,2,right,baselineSS,1,NaN,NaN,NaN,0.22,0.216
+16,ei, EI_030214,39,2,male,0,NSP,2,0,none,1,1,left,baselineSS,1,NaN,NaN,NaN,0.2,0.203
+17,em, EM_060714,61,1,female,1,PWA,3,1,aniso,1,1,left,iodAcuity,0,-0.096910013,0.497121255,0.594031268,0.185,0.215
+19,gd, GD_052014,50,1,female,1,PWA,3,1,aniso,1,1,left,iodAcuity,0,-0.164,0.398,0.562,0.197,0.208
+22,jd, JD_090414,51,2,male,0,NSP,2,0,none,1,1,left,baselineSS,0,NaN,NaN,NaN,0.194,0.185
+23,jm, JM_092914,42,1,female,0,NSP,1,0,none,0,2,right,sightingTest,0,NaN,NaN,NaN,0.211,0.212
+24,jv, JV_050514,19,2,male,1,PWA,4,1,aniso,1,2,right,iodAcuity,0,-0.085,0.538,0.623,0.201,0.205
+26,ks, KS_072014,44,1,female,1,PWA,3,1,aniso,0,1,left,iodAcuity,0,-0.204,0.261,0.465,0.207,0.211
+27,kw, KW_051814,27,1,female,0,NSP,1,0,none,1,2,right,baselineSS,1,NaN,NaN,NaN,0.203,0.194
+28,li, LI_081514,25,2,male,1,PWA,4,2,mixed,1,1,left,iodAcuity,0,0,0.224,0.224,0.216,          NaN
+29,ls, LS_032214,55,1,female,0,NSP,1,0,none,1,2,right,baselineSS,0,NaN,NaN,NaN,0.193,0.202
+30,mg, MG_050414,30,1,female,1,PWA,3,1,aniso,1,1,left,iodAcuity,0,-0.184,0.398,0.582,0.217,0.227
+31,mk, MK_032214,18,2,male,0,NSP,2,0,none,1,1,left,baselineSS,0,NaN,NaN,NaN,0.197,0.189
+32,ms, MS_082214,46,2,male,0,NSP,2,0,none,1,1,left,baselineSS,0,NaN,NaN,NaN,0.203,0.214
+34,nl, NL_060814,33,1,female,0,NSP,1,0,none,1,1,left,baselineSS,1,NaN,NaN,NaN,0.21,0.218
+36,ps, PS_090314,25,2,male,1,PWA,4,1,aniso,0,1,left,iodAcuity,0,-0.20184875,0.244119983,0.445968732,0.207,0.204
+37,rn, RN_081414,61,1,female,1,PWA,3,2,mixed,1,1,left,iodAcuity,0,0.076910013,0.602059991,0.525149978,0.2,0.21
+38,sd, SD_061214,43,1,female,1,PWA,3,2,mixed,1,1,left,iodAcuity,0,-0.076910013,0.755880017,0.83279003,0.187,          NaN
+43,yl, YL_032714,22,1,female,0,NSP,1,0,none,1,1,left,baselineSS,0,NaN,NaN,NaN,0.196,0.228
